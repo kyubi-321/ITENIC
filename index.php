@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple PHP Deployment Test</title>
+    <title>ITENIC</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -29,7 +29,7 @@
     <div class="container">
         <h1>Deployment Successful!</h1>
         <p>This is a simple PHP page deployed via GitHub.</p>
-        <p>Current server timings: <?php echo date('Y-m-d H:i:s'); ?></p>
+        <p>Timings of your current server: <?php echo date('Y-m-d H:i:s'); ?></p>
     </div>
 </body>
 </html>
