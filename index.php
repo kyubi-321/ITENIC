@@ -29,7 +29,7 @@
     <div class="container">
         <h1>Deployment Successful!</h1>
         <p>This is a simple PHP page deployed via GitHub.</p>
-        <p>Current server time: <?php echo date('Y-m-d H:i:s'); ?></p>
+        <p>Current server timings: <?php echo date('Y-m-d H:i:s'); ?></p>
     </div>
 </body>
 </html>
