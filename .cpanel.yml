@@ -4,4 +4,4 @@ deployment:
     - export DEPLOY_PATH=/home/ocak4ipnd9p8/public_html
     - echo "Starting deployment to $DEPLOY_PATH"
     - /bin/cp -R * $DEPLOY_PATH
-    - echo "Deployment completed successfully!"
+    - echo "Deployment complete successfully!"
